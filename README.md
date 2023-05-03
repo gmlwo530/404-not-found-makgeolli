@@ -35,6 +35,7 @@
 <!-- - [@<GitHub 유저 이름>](https://github.com/<GitHub 유저 이름>) : <별점(5점 만점)> / <리뷰 내용> -->
 
 - [@gmlwo530](https://github.com/gmlwo530) : 5.0 / 깔끔하고 상큼한게 디버깅 할 때 한 잔하기 딱 좋은 술이예요 😆
+- [@gmlwo530](https://github.com/gmlwo530) : 5.0 / 테스트 리뷰입니다
 
 ## 리뷰 쓰는 법
 
